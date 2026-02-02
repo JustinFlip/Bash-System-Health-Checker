@@ -131,6 +131,3 @@ The script falls back to the `service` command for non-systemd systems.
 ## Author
 
 **Justin Flip**
-
----
-Justin Flip Health Checker
