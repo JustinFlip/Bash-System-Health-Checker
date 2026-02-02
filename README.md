@@ -23,7 +23,7 @@ A lightweight Bash script for quick validation of critical system metrics on Lin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/system-health-checker.git
+git clone https://github.com/JustinFlip/system-health-checker.git
 cd system-health-checker
 ```
 
@@ -127,20 +127,6 @@ chmod +x health_check.sh
 
 **systemctl commands fail:**
 The script falls back to the `service` command for non-systemd systems.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
